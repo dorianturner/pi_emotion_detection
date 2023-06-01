@@ -5,6 +5,8 @@ This project aims for real time emotion detection from a camera to be used as a 
 ## Usage
 clone repository with: ```git clone https://github.com/dorianturner/pi_emotion_detection.git```  
 
+change directory to downloaded repo: ```cd pi_emotion_detection```  
+
 run main_tflite with python3: ```python3 main_tflite.py```
 
 ## Notes
