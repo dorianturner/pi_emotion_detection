@@ -13,5 +13,5 @@ run main_tflite with python3: ```python3 main_tflite.py```
 This is using **64-bit** raspberry pi os and a usb webcam with the video handling and face detection coming from opencv. 
 
 ## TODO
-Get the deepface script working and train a bettermodel and get the h5_to_tflite model converter working.
+Implement opencv emotion detection model to the runtime
      
